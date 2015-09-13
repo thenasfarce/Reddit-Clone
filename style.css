@@ -1,0 +1,7 @@
+#post {
+	border: black solid 1px;
+	padding: 10px ;
+	margin: 5px;
+}
+
+.glyphicon-thumbs-up { cursor:pointer }
